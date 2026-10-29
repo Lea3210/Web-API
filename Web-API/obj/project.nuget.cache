@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YlEqofGm6/c=",
+  "success": true,
+  "projectFilePath": "M:\\API\\Web-API\\Web-API\\Web-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\8917\\.nuget\\packages\\zxcvbn-core\\7.0.92\\zxcvbn-core.7.0.92.nupkg.sha512"
+  ],
+  "logs": []
+}
