@@ -1,10 +1,10 @@
 ﻿
 const user1 = JSON.parse(sessionStorage.getItem("user"));
 
-const name = document.querySelector("#name").value
-const lastName = document.querySelector("#lastName").value
-const password = document.querySelector("#password").value
-const email = document.querySelector("#email").value
+const name = document.querySelector("#name")
+const lastName = document.querySelector("#lastName")
+const password = document.querySelector("#password")
+const email = document.querySelector("#email")
 
 
 

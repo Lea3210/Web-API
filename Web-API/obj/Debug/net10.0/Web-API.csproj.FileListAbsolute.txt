@@ -61,8 +61,15 @@ M:\API\Web-API\Web-API\obj\Debug\net10.0\Web-API.genruntimeconfig.cache
 M:\API\Web-API\Web-API\obj\Debug\net10.0\ref\Web-API.dll
 M:\API\Web-API\Web-API\bin\Debug\net10.0\zxcvbn-core.dll
 M:\API\Web-API\Web-API\obj\Debug\net10.0\Web-API.csproj.AssemblyReference.cache
-M:\API\Web-API\Web-API\obj\Debug\net10.0\compressed\wrtss2kmr1-{0}-ikge6mktp4-ikge6mktp4.gz
 M:\API\Web-API\Web-API\obj\Debug\net10.0\compressed\aamdeexblj-{0}-wi2k14r8tg-wi2k14r8tg.gz
 M:\API\Web-API\Web-API\obj\Debug\net10.0\Web-API.csproj.Up2Date
 M:\API\Web-API\Web-API\obj\Debug\net10.0\compressed\gcw58fwurm-{0}-8g0tfv34gj-8g0tfv34gj.gz
-M:\API\Web-API\Web-API\obj\Debug\net10.0\compressed\9cse5luno5-{0}-157r0n2pk5-157r0n2pk5.gz
+M:\API\Web-API\Web-API\obj\Debug\net10.0\Web-API.sourcelink.json
+M:\API\Web-API\Web-API\obj\Debug\net10.0\compressed\9cse5luno5-{0}-34ienumri1-34ienumri1.gz
+M:\API\Web-API\Web-API\bin\Debug\net10.0\Entities.dll
+M:\API\Web-API\Web-API\bin\Debug\net10.0\Repositories.dll
+M:\API\Web-API\Web-API\bin\Debug\net10.0\Servicies.dll
+M:\API\Web-API\Web-API\bin\Debug\net10.0\Entities.pdb
+M:\API\Web-API\Web-API\bin\Debug\net10.0\Servicies.pdb
+M:\API\Web-API\Web-API\bin\Debug\net10.0\Repositories.pdb
+M:\API\Web-API\Web-API\obj\Debug\net10.0\compressed\wrtss2kmr1-{0}-prud3j738p-prud3j738p.gz

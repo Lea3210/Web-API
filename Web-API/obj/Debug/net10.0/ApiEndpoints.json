@@ -140,13 +140,13 @@
     "Parameters": [
       {
         "Name": "user",
-        "Type": "WebAPI.User",
+        "Type": "Entities.User",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "WebAPI.User",
+        "Type": "Entities.User",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -172,7 +172,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "WebAPI.User",
+        "Type": "Entities.User",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -197,7 +197,7 @@
       },
       {
         "Name": "user2",
-        "Type": "WebAPI.User",
+        "Type": "Entities.User",
         "IsRequired": true
       }
     ],
@@ -241,13 +241,13 @@
     "Parameters": [
       {
         "Name": "loginUser",
-        "Type": "Web_API.UserLogin",
+        "Type": "Entities.LoginUser",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "Web_API.UserLogin",
+        "Type": "Entities.User",
         "MediaTypes": [
           "text/plain",
           "application/json",
