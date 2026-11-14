@@ -56,6 +56,7 @@ namespace WebAPI.Controllers
             User user = serv.LoginUser(loginUser);
             if(user != null) 
                 return Ok(user);
+            //The assignment asks a login with a wrong password to return 204 NoContent: what should this return instead of 404?
             return NotFound();
  
         }
@@ -63,6 +64,7 @@ namespace WebAPI.Controllers
 
         // PUT api/<UsersController>/5
         [HttpPut("{id}")]
+        //The assignment asks PUT to return Ok(): change void to IActionResult and return Ok() at the end
         public void Put(int id, [FromBody] User user2)
         {
           serv.UpdateUserById(id,user2);

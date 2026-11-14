@@ -1,4 +1,5 @@
 
+//There is no element with the id butt in Home.html: which element is this line for?
 const butt = document.querySelector("#butt");
 const post = async () => {
     const name = document.querySelector("#name").value
