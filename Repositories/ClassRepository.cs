@@ -6,6 +6,7 @@ namespace Repositories
 {
     public class ClassRepository : IClassRepository
     {
+        //This full path on your disk (M:) won't run on another computer: use a path relative to the project
         static string filePath = "M:\\API\\Web-API\\Repositories\\file.txt";
         public User AddUser(User user1)
         {
