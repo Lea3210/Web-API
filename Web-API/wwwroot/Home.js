@@ -1,4 +1,5 @@
 
+//The #butt element doesn't exist in Home.html: remove this line, or add an element with id butt to the page
 const butt = document.querySelector("#butt");
 const post = async () => {
     const name = document.querySelector("#name").value
